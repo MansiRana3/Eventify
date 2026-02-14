@@ -9,7 +9,7 @@ Eventify is a web application I built to learn full-stack development. It lets e
 The platform handles two types of users: hosts who create events, and regular users who browse and book them. Each gets their own dashboard to manage their events or bookings.
 
 
-Features
+<b>Features</b>
 
 User Side:
 Browse events with search and filtering (by category, price range)
@@ -40,7 +40,12 @@ Loading states and toast notifications for better UX
 Shows "sold out" badges when events are full
 
 Screenshots
-<img width="2041" height="1020" alt="image" src="https://github.com/user-attachments/assets/333a6410-129b-49a2-babf-1a0667a15649" />
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/9155115b-2942-4ec9-b5be-77e8e2d8cecf" />
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/1d43871b-6a08-46d9-8bc3-259be87f430e" />
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/e502a195-ddd9-4072-be1c-765b90de81e1" />
+
+
+
 
 
 Tech Stack
