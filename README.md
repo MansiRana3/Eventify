@@ -1,9 +1,16 @@
 Eventify ----LINK TO LIVE PROJECT-https://eventify-fe-three.vercel.app
+
+
 A full-stack event booking platform where hosts can create and manage events, and users can discover and book tickets.
+
+
 About
 Eventify is a web application I built to learn full-stack development. It lets event organizers create and manage their events while giving attendees an easy way to find and book tickets. Think of it as a simplified Eventbrite clone with core booking functionality.
 The platform handles two types of users: hosts who create events, and regular users who browse and book them. Each gets their own dashboard to manage their events or bookings.
+
+
 Features
+
 User Side:
 Browse events with search and filtering (by category, price range)
 View detailed event information including location, date, and available seats
